@@ -11,7 +11,7 @@
 
 - ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sampurna-biswas-7487bb290)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/SampurnaBiswa23)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/SampurnaBiswa23)
 
 <!---
 SamPurna023/SamPurna023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
