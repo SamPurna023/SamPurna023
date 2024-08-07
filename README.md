@@ -6,8 +6,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love learning everything except study. I love reading books too.
 
-- ## My GitHub Stats
-![Sampurna's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamPurna023&show_icons=true&theme=radical)
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamPurna023&layout=compact&theme=radical)
 
 - ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sampurna-biswas-7487bb290)
