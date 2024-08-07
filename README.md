@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sampurna
 - 👀 I’m interested in web development, machine learning, and open-source projects. 
-- 🌱 I’m currently learning Web developmen and Python.
+- 🌱 I’m currently learning Javascript and Python.
 - 💞️ I’m looking to collaborate on innovative web applications.
 - 📫 How to reach me : sampurnabiswas.org@gmail.com 
 - 😄 Pronouns: she/her
