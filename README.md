@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on innovative web applications.
 - 📫 How to reach me : sampurnabiswas.org@gmail.com 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love learning everything except study. I love reading books too.
+- ⚡ Fun fact: I love reading novel.
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamPurna023&layout=compact&theme=radical)
