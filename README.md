@@ -18,4 +18,5 @@ SamPurna023/SamPurna023 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" <a href="https://gssoc.girlscript.tech/leaderboard"> /> 
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
+<a href="https://gssoc.girlscript.tech/leaderboard">
