@@ -10,14 +10,14 @@
 
 ---
 
-## My Vibe
+## 💜 My Vibe
 
 Turning ideas into code, interfaces, and intelligent systems.  
 Exploring the world of **web development, machine learning, and design**, while constantly learning and building things that make an impact.
 
 ---
 
-## Skills & Technologies
+## 🛠 Skills & Technologies
 
 <div align="center">
 
