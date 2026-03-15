@@ -10,17 +10,10 @@
 
 ---
 
-## About Me
+## My Vibe
 
-Hello! I'm **Sampurna**, a passionate developer interested in building impactful digital products.
-
-💡 I enjoy combining **technology, creativity, and design** to solve real problems.
-
-* 💻 Interested in **Web Development & Machine Learning**
-* 🎨 Passionate about **UI/UX Design**
-* 🤝 Open to **Open-Source Collaborations**
-* 📚 Fun fact: I love reading novels
-
+Turning ideas into code, interfaces, and intelligent systems.  
+Exploring the world of **web development, machine learning, and design**, while constantly learning and building things that make an impact.
 ---
 
 ## Skills & Technologies
