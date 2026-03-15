@@ -82,13 +82,6 @@ Hello! I'm **Sampurna**, a passionate developer interested in building impactful
 <img src="https://raw.githubusercontent.com/SamPurna023/SamPurna023/output/github-contribution-grid-snake.svg" />
 
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamPurna023&layout=compact&theme=radical)
-
-- ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sampurna-biswas-7487bb290)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/SampurnaBiswa23)
-
 <!---
 SamPurna023/SamPurna023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
