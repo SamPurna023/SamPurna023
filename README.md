@@ -1,10 +1,86 @@
-- 👋 Hi, I’m Sampurna
-- 👀 I’m interested in web development, machine learning, and open-source projects. 
-- 🌱 I’m currently learning Javascript and Python.
-- 💞️ I’m looking to collaborate on innovative web applications.
-- 📫 How to reach me : sampurnabiswas.org@gmail.com 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love reading novel.
+<div align="center">
+
+# Sampurna Biswas
+
+### Web Developer • Machine Learning Enthusiast • UI/UX Explorer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9B59FF&center=true&vCenter=true&width=550&lines=Building+cool+things+with+code;Exploring+Machine+Learning;UI%2FUX+Design+Enthusiast;Open+Source+Learner+🚀">
+
+</div>
+
+---
+
+## About Me
+
+Hello! I'm **Sampurna**, a passionate developer interested in building impactful digital products.
+
+💡 I enjoy combining **technology, creativity, and design** to solve real problems.
+
+* 💻 Interested in **Web Development & Machine Learning**
+* 🎨 Passionate about **UI/UX Design**
+* 🤝 Open to **Open-Source Collaborations**
+* 📚 Fun fact: I love reading novels
+
+---
+
+## Skills & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,mongodb,git,github,vscode,figma" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SamPurna023&show_icons=true&theme=tokyonight&border_radius=12" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamPurna023&layout=compact&theme=tokyonight&border_radius=12" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamPurna023&theme=tokyonight&border_radius=12"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sampurna-biswas-7487bb290">
+<img src="https://img.shields.io/badge/LinkedIn-9B59FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/SampurnaBiswa23">
+<img src="https://img.shields.io/badge/X-9B59FF?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:sampurnabiswas.org@gmail.com">
+<img src="https://img.shields.io/badge/Email-9B59FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**Code • Create • Learn • Repeat**
+
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/SamPurna023/SamPurna023/output/github-contribution-grid-snake.svg" />
+
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamPurna023&layout=compact&theme=radical)
