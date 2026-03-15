@@ -2,7 +2,7 @@
 
 # Sampurna Biswas
 
-### Web Developer • Machine Learning Enthusiast • UI/UX Explorer
+### Web Developer • AI Explorer • UI/UX Designer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9B59FF&center=true&vCenter=true&width=550&lines=Building+cool+things+with+code;Exploring+Machine+Learning;UI%2FUX+Design+Enthusiast;Open+Source+Learner+🚀">
 
