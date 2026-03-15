@@ -79,8 +79,7 @@ Hello! I'm **Sampurna**, a passionate developer interested in building impactful
 
 ---
 
-<img src="https://raw.githubusercontent.com/SamPurna023/SamPurna023/output/github-contribution-grid-snake.svg" />
-
+<img src="https://raw.githubusercontent.com/SamPurna023/SamPurna023/output/github-contribution-grid-snake.svg">
 
 <!---
 SamPurna023/SamPurna023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
